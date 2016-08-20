@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="seckill">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/target/seckill/META-INF" />
+      <element id="dir-copy" path="$PROJECT_DIR$/target/seckill/WEB-INF" />
+    </root>
+  </artifact>
+</component>

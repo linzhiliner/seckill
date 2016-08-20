@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-tx-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-expression-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/c3p0-0.9.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/mybatis-spring-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/mybatis-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-context-support-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-beans-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/mybatis-plus-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/slf4j-api-1.7.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-core-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-aop-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/mchange-commons-java-0.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/mail-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/velocity-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/spring-context-4.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/seckill/webapp/WEB-INF/lib/commons-lang-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
